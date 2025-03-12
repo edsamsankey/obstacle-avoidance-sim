@@ -28,3 +28,6 @@ Customization Options
 Change Robot Speed: Modify robot_speed to adjust the robot's speed.
 Add More Obstacles: Increase or decrease num_obstacles to change the number of obstacles.
 Resize the Screen: Adjust WIDTH and HEIGHT for a different screen size.
+
+
+![image](https://github.com/user-attachments/assets/36547e2d-27b1-4936-ad48-08aed1a58324)
